@@ -1,3 +1,1 @@
-Scraper API From command
-
-*.env sengaja dimasukkan
+# Scraper API From command Line
